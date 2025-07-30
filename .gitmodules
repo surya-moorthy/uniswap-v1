@@ -1,0 +1,6 @@
+[submodule "defi_dex/lib/forge-std"]
+	path = defi_dex/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "defi_dex/lib/openzeppelin-contracts"]
+	path = defi_dex/lib/openzeppelin-contracts
+	url = https://github.com/openzeppelin/openzeppelin-contracts
